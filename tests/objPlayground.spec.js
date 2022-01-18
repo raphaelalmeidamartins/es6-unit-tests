@@ -1,3 +1,5 @@
+// Teste já estava implementado, eu desenvolvi a função a ser testada
+
 const { calculator, arrayGenerator } = require('../src/objPlayground');
 
 describe('7 - Implemente as funções `calculator` e `arrayGenerator`', () => {

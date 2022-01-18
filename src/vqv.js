@@ -1,3 +1,5 @@
+// Foi desenvolvida por mim
+
 const vqv = (name, age) => {
   if (!name || !age) { return undefined; }
   let string = `Oi, meu nome é ${name}!

@@ -1,3 +1,5 @@
+// Já estava desenvolvida e eu criei o teste
+
 const numbers = (myArray) => {
   for (let i = 0; i < myArray.length; i += 1) {
     if (typeof myArray[i] !== 'number') {

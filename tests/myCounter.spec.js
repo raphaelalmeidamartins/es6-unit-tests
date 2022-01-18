@@ -1,3 +1,5 @@
+// Teste já estava implementado, só precisei corrigir a função que estava desenvolvida para que ela passasse no teste
+
 const myCounter = require('../src/myCounter');
 
 describe('8 - Implemente a função `myCounter`', () => {

@@ -1,3 +1,5 @@
+// Teste desenvolvido por mim, a função já estava implementada
+
 const circle = require('../src/circle');
 
 describe('4 - Implemente os casos de teste para a função `circle`', () => {

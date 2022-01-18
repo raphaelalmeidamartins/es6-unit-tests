@@ -1,3 +1,5 @@
+// Teste desenvolvido por mim, a função a ser testada já estava implementada
+
 const getCharacter = require('../src/getCharacter');
 
 describe('9 - Implemente os casos de teste da função `getCharacter`', () => {

@@ -1,3 +1,5 @@
+// Teste já estava implementado, eu desenvolvi a função a ser testada
+
 const average = require('../src/average');
 
 describe('1 - Implemente a função `average`', () => {

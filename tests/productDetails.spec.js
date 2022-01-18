@@ -1,3 +1,5 @@
+// Teste desenvolvido por mim, função já estava implementada
+
 const productDetails = require('../src/productDetails');
 
 describe('6 - Implemente os casos de teste para a função `productDetails`', () => {
@@ -9,7 +11,7 @@ describe('6 - Implemente os casos de teste para a função `productDetails`', ()
     const item2 = productDetails('Alcool gel', 'Máscara')[1];
     expect(typeof item1 && typeof item2).toBe('object');
     expect(item1).not.toEqual(item2);
-    expect(item1.details.productId).toMatch(/.*(123)$/);
+    expect(item1.details.productId).toMatch(/.*(123)$/); // Simplifiquei a RegExp com base nas dicas do Danillo e da Luá
     expect(item2.details.productId).toMatch(/.*(123)$/);
   });
 });

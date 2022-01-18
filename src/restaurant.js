@@ -1,3 +1,5 @@
+// Criei tanto a função quanto os testes
+
 const createMenu = (object) => {
   const menu = {
     consumption: [],

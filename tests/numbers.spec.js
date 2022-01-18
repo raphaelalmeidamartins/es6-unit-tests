@@ -1,3 +1,5 @@
+// Teste desenvolvido por mim, a função já estava implementada
+
 const numbers = require('../src/numbers');
 
 describe('2 - Implemente os casos de teste para a função `numbers`', () => {

@@ -1,3 +1,5 @@
+// Já estava desenvolvida e eu criei os testes
+
 const characters = {
   arya: {
     name: 'Arya Stark',

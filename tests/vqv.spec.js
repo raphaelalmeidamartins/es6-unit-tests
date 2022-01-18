@@ -1,3 +1,5 @@
+// Teste já estava implementado, eu desenvolvi a função a ser testada
+
 const vqv = require('../src/vqv.js');
 
 describe('3 - Implemente a função `vqv`', () => {

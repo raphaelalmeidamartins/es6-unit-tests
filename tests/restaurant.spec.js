@@ -1,3 +1,5 @@
+// Implementei tanto a função quanto o teste
+
 const createMenu = require('../src/restaurant');
 
 describe('10 - Implemente os casos de teste e a função `createMenu`', () => {

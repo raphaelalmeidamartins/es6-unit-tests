@@ -1,3 +1,5 @@
+// Teste já estava implementado, eu desenvolvi a função a ser testada
+
 const createStudent = require('../src/createStudent');
 
 const goodPerson = 'Eita pessoa boa!';

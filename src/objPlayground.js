@@ -1,3 +1,5 @@
+// Desenvolvida por mim
+
 const calculator = (number1, number2) => {
   const object = {
     sum: Math.floor(number1 + number2),

@@ -1,3 +1,5 @@
+// Já estava desenvolvida e eu fiz os testes
+
 const circle = (radius) => {
   const PI = 3.14;
 

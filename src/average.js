@@ -1,3 +1,5 @@
+// Desenvolvida por mim
+
 const average = (array) => {
   const arrayNotNumbers = array.filter((num) => typeof num !== 'number');
   if (arrayNotNumbers.length || !array.length) { return undefined; }
