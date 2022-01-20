@@ -12,7 +12,7 @@ const createMenu = (object) => {
           check += menu.food[`${item}`] || menu.drink[`${item}`]; // Simplifiquei conforme sugestão da Luá no code-review
         }
       });
-      check += check * 0.1; // Rafael Elias me avisou que eu havia esquecido de adicionar os 10% no valor do pedido
+      Number((check += check * 0.1).toFixed(2)); // Rafael Elias me avisou que eu havia esquecido de adicionar os 10% no valor do pedido
       return check;
     },
   };
