@@ -11,7 +11,7 @@ describe('10 - Implemente os casos de teste e a função `createMenu`', () => {
     expect(createMenu(anyMenu).fetchMenu()).toEqual({ food: { coxinha: 3.9, sopa: 9.9 }, drink: { agua: 3.9, cerveja: 6.9 } });
     expect(createMenu(anyMenu).consumption).toEqual([]);
 
-    let outputObject = createMenu(anyMenu)
+    let outputObject = createMenu(anyMenu);
     outputObject.order('coxinha');
 
     expect(outputObject.consumption).toEqual(['coxinha']);
