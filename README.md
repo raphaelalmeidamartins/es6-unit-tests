@@ -5,11 +5,18 @@
 <p id="pt">Projeto de JavaScript desenvolvido por mim (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) ao final do Bloco 7 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. Obtive aprovação com 100% dos requisitos obrigatórios e opcionais atingidos.</p>
 <p>O projeto consistiu no desenvolvimento de funções resolvendo desafios de lógica de programação. Também tivemos que desenvolver testes unitários com o framework Jest para verificar o comportamento esperado delas. Algumas funções já estavam implementadas e eu precisei desenvolver os testes, e alguns testes já estavam implementados e eu precisei criar as funções a serem testadas.</p>
 
+<h3>Aviso de direitos autorais</h3>
+<p>Este projeto foi desenvolvido para fins de aprendizado, todo o código e textos de documentação em português e inglês, com exceção dos que já estavam implementados e estão sinalizados em comentários nos arquivos, são de minha autoria e os direitos pertencem exclusivamente a mim. É permitido baixar ou clonar o repositório para fins de estudo, porém, não é permitido publicar cópias totais nem parciais. Este aviso não cobre as bibliotecas e dependências, estas estão sujeitas a licenças próprias.</p>
+
 ![Minha nota no projeto - My grade of the project](./nota.png)
 <br>
 
 <h2 id="en">:us: English</h2>
 <p>JavaScript project developed by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) at the end of the Unit 7 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met.</p>
 <p>We had to develop functions to solve programming logic challenges. We also had to develop unit tests to verify the functions' expected behavior by using the Jest framework. For functions that were already implemented, I had to develop the tests. And, for the tests that were already implemented, I had to develop the functions to be tested.</p>
+
+<h3>Copyright disclaimer</h3>
+<p>I developed this project for learning purposes, all the code and documentation texts in Portuguese and English are my authorship, except the ones that were already implemented and are marked with comments in the files. And the rights belong exclusively to me. It is allowed to download or clone the repository for study purposes. However, it is not allowed to publish full or partial copies. This disclaimer does not cover libraries and dependencies, which are subject to their respective licenses.
+</p>
 
 ![My grade of the project - Minha nota no projeto](./nota.png)
