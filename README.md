@@ -2,7 +2,7 @@
 
 ## :page_with_curl: About
 
-Project of HTML, CSS, and JavaScript developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of the Unit 7 Module 1 of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
+JavaScript project developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of the Unit 7 Module 1 of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
 
 We had to develop functions to solve programming logic challenges. We also had to develop unit tests to verify the functions' expected behavior by using the Jest framework. For functions that were already implemented, I had to develop the tests. And, for the tests that were already implemented, I had to develop the functions to be tested.
 
