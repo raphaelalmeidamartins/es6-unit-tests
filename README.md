@@ -1,4 +1,4 @@
-# :globe_with_meridians: JavaScript ES6 and Unit Tests :globe_with_meridians:
+# :alembic: JavaScript ES6 and Unit Tests :test_tube:
 
 ## :page_with_curl: About
 
