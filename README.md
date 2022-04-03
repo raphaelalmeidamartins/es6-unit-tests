@@ -6,6 +6,11 @@ JavaScript project developed by me ([Raphael Martins](https://www.linkedin.com/i
 
 We had to develop functions to solve programming logic challenges. We also had to develop unit tests to verify the functions' expected behavior by using the Jest framework. For functions that were already implemented, I had to develop the tests. And, for the tests that were already implemented, I had to develop the functions to be tested.
 
+## :man_technologist: Developed Skills
+
+* Implement unit tests by using the Jest library
+* Solve programming logic challenges with JavaScript
+
 ## :hammer_and_wrench: Tools
 
 * JavaScript ES6+
